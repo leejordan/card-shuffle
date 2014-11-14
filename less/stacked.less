@@ -33,6 +33,11 @@
     transform:              @string;
 }
 
+.animation(@animation) {
+    -webkit-animation: @animation;
+    animation: @animation;
+}
+
 .box-shadow(@shadow) {
     -webkit-box-shadow: @shadow;
     box-shadow: @shadow;
@@ -79,19 +84,19 @@
     }
 }
 
-// Card lifted up
-.cardUp() {
-    border-color: @colorDefault;
-    margin-top: -@verticalMovement;
-    .transform(scale(0.8)rotate(1deg));
-}
+// // Card lifted up
+// .cardUp() {
+//     border-color: @colorDefault;
+//     margin-top: -@verticalMovement;
+//     .transform(scale(0.8)rotate(1deg));
+// }
 
-// Card back in the stack
-.cardDown() {
-    border-color: @colorDefault;
-    margin-top: 0;
-    .transform(scale(0.8)rotate(0deg));
-}
+// // Card back in the stack
+// .cardDown() {
+//     border-color: @colorDefault;
+//     margin-top: 0;
+//     .transform(scale(0.8)rotate(0deg));
+// }
 
 .cardSelected() {
     z-index: @zindex-top;
@@ -100,40 +105,23 @@
     top: 50%;
     width: 80% !important;
     .transform(scale(1));
-
-    &:hover,
-    &:focus {
-        .cardDown();
-        .transform(scale(1));
-    }
-
-    .stacked-card-select {
-        .cardSelectorOff();
-    }
 }
 
-.cardNotSelected() {
-    .transform(translate3d(0,0,0));
-    .transform(scale(0.8));
-    -webkit-perspective: 1000;
-    -webkit-backface-visibility: hidden;
-    outline: none;
+.cardDefault() {
     position: absolute;
     z-index: @zindex-base;
-    float: left;
+    top: 0;
     min-height: @height;
+    outline: none;
+    background: #fff;
     border: 1px solid @colorDefault;
     .box-shadow(0 0 3px @colorDefault);
-    background: #fff;
+    .transform(scale(0.8));
 
-    &:hover,
-    &:focus {
-        .cardUp();
-    }
-
-    .stacked-card-select {
-        .cardSelectorOn();
-    }
+    // &:hover,
+    // &:focus {
+    //     .cardUp();
+    // }
 }
 
 .cardSelectorOn() {
@@ -141,7 +129,12 @@
     display: block;
     width: 100%;
     height: 100%;
-    opacity: 0.6;
+    opacity: 0.2;
+
+    &:hover,
+    &:focus {
+        background-color: yellow;
+    }
 }
 
 .cardSelectorOff() {
@@ -164,16 +157,54 @@ body {
 
     .stacked-card {
         .generateCards(@numCards);
-        .cardNotSelected();
-        .transition(all 0.4s ease-in-out);
+        .cardDefault();
 
-        &:hover,
-        &:focus {
-            .cardUp();
+        .stacked-card-select {
+            .cardSelectorOn();
         }
 
         &:target {
-            .cardSelected();
+            .animation(card-select 1s 1 ease-in-out);
+            -webkit-animation-fill-mode: forwards;
+            animation-fill-mode: forwards;
+
+            .stacked-card-select {
+                .cardSelectorOff();
+            }
         }
+
+        // &:hover,
+        // &:focus {
+        //     .cardUp();
+        // }
     }
+}
+
+.cardSelectKeyframes() {
+    0% {
+        z-index: inherit;
+        top: 0;
+        .transform(scale(0.8));
+    }
+    50% {
+        z-index: @zindex-top;
+        top: 80%;
+        .transform(scale(0.8));
+    }
+    100% {
+        z-index: @zindex-top;
+        left: 10%;
+        right: 10%;
+        top: 30%;
+        width: 80%;
+        .transform(scale(1));
+    }
+}
+
+@-webkit-keyframes card-select {
+    .cardSelectKeyframes();
+}
+
+@keyframes card-select {
+    .cardSelectKeyframes();
 }
