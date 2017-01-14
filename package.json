@@ -1,0 +1,22 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "css card game demo",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leejordan/card-shuffle.git"
+  },
+  "author": "@leejordan",
+  "license": "MIT",
+  "scripts": {
+    "build": "lessc less/cards.less css/cards.css && lessc --clean-css=\"--s1 --advanced --compatibility=ie8\" less/cards.less > css/cards.min.css",
+    "watch": "watch 'npm run build' less -d -u"
+  },
+  "devDependencies": {
+    "reflex-grid": "1.0.8",
+    "less": "^2.5.3",
+    "less-plugin-clean-css": "^1.5.1",
+    "watch": "^0.17.1"
+  }
+}
