@@ -1,0 +1,1559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border-",
+				"dimension-border-radius"
+			],
+			[
+				"dimension",
+				"dimension-spacing-default"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"colour-gr",
+				"colour-grey-lightest"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-default"
+			],
+			[
+				"nav__dropdow",
+				"nav__dropdown__menu__sub__header"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"accord",
+				"accordion__section__content"
+			],
+			[
+				"dimen",
+				"dimension-border-radius"
+			],
+			[
+				"build",
+				"buildLessFile"
+			],
+			[
+				"less",
+				"lessFile"
+			],
+			[
+				"form",
+				"fromInput"
+			],
+			[
+				"Schedule",
+				"Schedule_Abstract"
+			],
+			[
+				"else",
+				"else\tTwig : Else"
+			],
+			[
+				"Twi",
+				"Twig_SimpleFunction"
+			],
+			[
+				"if",
+				"if\tTwig : If"
+			],
+			[
+				"err",
+				"errorCallback"
+			],
+			[
+				"submi",
+				"submitViaAjax"
+			],
+			[
+				"store",
+				"storedFields"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"aja",
+				"ajaxFormSubmit"
+			],
+			[
+				"billing",
+				"billingForm"
+			],
+			[
+				"bind",
+				"bindBootstrapValidator"
+			],
+			[
+				"ha",
+				"has-success"
+			],
+			[
+				"ex",
+				"excludedFieldsSelector"
+			],
+			[
+				"has",
+				"has-error"
+			],
+			[
+				"data",
+				"data-scroll-to"
+			],
+			[
+				"int",
+				"introJs"
+			],
+			[
+				"te",
+				"tether-utils"
+			],
+			[
+				"th",
+				"tether"
+			],
+			[
+				"isStar",
+				"isStarAlways"
+			],
+			[
+				"graze",
+				"grazeGray"
+			],
+			[
+				"geta",
+				"getAccountProfile"
+			],
+			[
+				"recomme",
+				"recommendation"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"getP",
+				"getParam"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"gra",
+				"Graze"
+			],
+			[
+				"Sett",
+				"Setting_Web"
+			],
+			[
+				"reward",
+				"rewardElement"
+			],
+			[
+				"Nut",
+				"NutritionPlan"
+			],
+			[
+				"getFirst",
+				"getFirstNameTidied"
+			],
+			[
+				"explore-menu",
+				"explore-menu-selection"
+			],
+			[
+				"continue",
+				"continueBtn"
+			],
+			[
+				"Promotion",
+				"Promotion_Code"
+			],
+			[
+				"variety",
+				"varietyAction"
+			],
+			[
+				"barrac",
+				"barracks_status_dire"
+			],
+			[
+				"product",
+				"productGroupDetails"
+			],
+			[
+				"filte",
+				"filteredProducts"
+			],
+			[
+				"nutritio",
+				"nutritionPlans"
+			],
+			[
+				"custom",
+				"customBoxes"
+			],
+			[
+				"nutri",
+				"nutritionPlans"
+			],
+			[
+				"require",
+				"requireAuth"
+			],
+			[
+				"nutr",
+				"nutritionPlans"
+			],
+			[
+				"combination",
+				"combinationsCounter"
+			],
+			[
+				"ajax",
+				"ajaxBaseParameters"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"boxColorD",
+				"boxColorDark"
+			],
+			[
+				"boxC",
+				"boxColorLight"
+			],
+			[
+				"account",
+				"accountProfile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/cards.less",
+			"settings":
+			{
+				"buffer_size": 4319,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 256.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ljordan/workspace/bits/cards",
+		"/Users/ljordan/workspace/bits/cards/css",
+		"/Users/ljordan/workspace/bits/cards/less"
+	],
+	"file_history":
+	[
+		"/Users/ljordan/workspace/bits/global-physio/package.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/stylesheets/style.css.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/category/plp-template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/product_list_master.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/_nav.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/pdp-template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/javascripts/actions.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/javascripts/status.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_product_tile_secondary.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/config.rb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_product_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/pdp.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/_example_template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/plp-1.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/index.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/example-plp.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/index-test.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_example_product_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/index-v1.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/stylesheets/style.css",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/example_template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_example_landscape_product_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/magento-xsl-data-generator.xml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/stylesheets/includes/_mixins-reflex.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/category-landing_new.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/layouts/layout.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/create-account.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/signup.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/login.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/admin.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/account.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/about.html.erb",
+		"/Users/ljordan/Downloads/ux-prototype-data (17).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (16).xml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/config.ru",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/template-chris.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/product/template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/_head.html.erb",
+		"/Users/ljordan/Downloads/ux-prototype-data (15).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (14).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (12).xml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/.gitignore",
+		"/Users/ljordan/Downloads/ux-prototype-data (13).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (11).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (10).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (9).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (8).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (7).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (6).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (5).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (4).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (3).xml",
+		"/Users/ljordan/Downloads/ux-prototype-data (2).xml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/_footer.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/index-test.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/index-v1.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/product/template.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/example-plp.html.erb",
+		"/Users/ljordan/Downloads/ux-prototype-data (1).xml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_product-tile_x4.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_product-tile_compact_x4.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/category-landing_new.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/plp-1.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/pdp-cheese-board.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/stylesheets/includes/_grayscale.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/README.md",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/index.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_product-tile_x3.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/products_details.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/plp-new.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/example.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/products_list.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/pdp-1.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/product/_tile-by-3.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/home_feature_products.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/login.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/prototypes/prototype-a/index.html",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/index.html",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/javascripts/actions.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/javascripts/status.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/javascripts/settings.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/signup.html.erb",
+		"/Users/ljordan/Downloads/Text blocks.txt",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/prototypes/_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/javascripts/cookies.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/_nav.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/account.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/_body-end.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/prototypes/prototype-a/login-example.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/Gemfile",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/flows/_tile.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/flows/simple/index.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/products.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/stylesheets/includes/mixins.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/node_modules/pistachio/less/includes/mixins.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/node_modules/pistachio/less/includes/variables.less",
+		"/Users/ljordan/workspace/graze/ux-prototypes/package.json",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/layouts/blank.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/css.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/layout/_pistachio-css.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/partials/_footer.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/flows/index.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/pages",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/_footer.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/_nav.html.erb",
+		"/Users/ljordan/workspace/graze/ux-prototypes/build/javascripts/app.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/data/people.yaml",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/data/products.js",
+		"/Users/ljordan/workspace/graze/ux-prototypes/source/layouts/layout.haml",
+		"/Users/ljordan/workspace/graze/pistachio/less/common.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/pistachio.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/modules/panels.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/modules/inset.less",
+		"/Users/ljordan/workspace/graze/pistachio/README.md",
+		"/Users/ljordan/workspace/graze/pistachio/less/common/responsive-utilities.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/modules/features.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/includes/variables.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/includes/mixins.less",
+		"/Users/ljordan/workspace/graze/pistachio/less/modules/page-sections.less",
+		"/Users/ljordan/workspace/graze/pistachio/site/docs/views/layouts_article-block-examples.hbs",
+		"/Users/ljordan/workspace/graze/pistachio/site/docs/views/layouts_feature-block-examples.hbs",
+		"/Users/ljordan/workspace/graze/pistachio/site/docs/views/layouts_example-feature-page.hbs",
+		"/Users/ljordan/workspace/graze/pistachio/less/common/utilities.less",
+		"/Users/ljordan/workspace/graze/pistachio/Makefile",
+		"/Users/ljordan/workspace/graze/pistachio/less/common/embed.less",
+		"/Users/ljordan/workspace/graze/pistachio/package.json",
+		"/Users/ljordan/workspace/graze/pistachio/site/docs/views/examples/features/banner-full-typography.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ljordan/workspace/graze/ux-prototypes",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio/",
+			"/Users/ljordan/workspace/graze/pistachio/less",
+			"/Users/ljordan/workspace/graze/pistachio",
+			"/Users/ljordan/workspace/reflex/",
+			"/Users/ljordan/workspace/reflex/less",
+			"/Users/ljordan/workspace/reflex/docs",
+			"/Users/ljordan/workspace/reflex/less",
+			"/Users/ljordan/workspace/reflex",
+			"/Users/ljordan/workspace/graze/web/",
+			"/Users/ljordan/workspace/graze/web/web",
+			"/Users/ljordan/workspace/graze/web",
+			"/Users/ljordan/workspace/graze/Vagrant2",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap/graze",
+			"/Users/ljordan/workspace/graze/",
+			"/Users/ljordan/workspace/graze/web",
+			"/Users/ljordan/workspace/graze/phpTest/stuartWilson/test",
+			"/Users/ljordan/workspace/graze/Web/",
+			"menuPrimary",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web/",
+			"/Users/ljordan/workspace/graze/Web/web/views",
+			"/Users/ljordan/workspace/graze/Web",
+			"/Users/ljordan/workspace/graze/api",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"box-/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web/views",
+			"/Users/ljordan/workspace/graze/Web",
+			"/Users/ljordan/workspace/blog/lendmeyourear/wordpress/wp-content/themes/brew",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/javascript",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/less/web/graze/en/grazestrap",
+			"/Users/ljordan/workspace/graze/Web/",
+			"/Users/ljordan/workspace/graze/Web/web",
+			"/Users/ljordan/workspace/graze/Web/web/views/graze/en",
+			"/Users/ljordan/workspace/graze/Web/web/views/graze/en/products/features",
+			"/Users/ljordan/workspace/graze/Web/javascript/web/Labs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"3%",
+			"4%",
+			"1deg",
+			"2deg",
+			"4deg",
+			"6deg",
+			"8deg",
+			"card.",
+			"margin-right",
+			" class=\"card\"",
+			"4",
+			"3",
+			"2",
+			"1",
+			"2",
+			"3",
+			"margin-right",
+			"4",
+			"n+",
+			"top",
+			"        <div class=\"stacked-card\" id=\"card-1\">\n            <a href=\"#card-1\" class=\"stacked-card-select\"></a>\n            <h1>card 1</h1>\n        </div>\n\n        <div class=\"stacked-card\" id=\"card-2\">\n            <a href=\"#card-2\" class=\"stacked-card-select\"></a>\n            <h1>card 2</h1>\n        </div>\n\n        <div class=\"stacked-card\" id=\"card-3\">\n            <a href=\"#card-3\" class=\"stacked-card-select\"></a>\n            <h1>card 3</h1>\n        </div>\n\n        <div class=\"stacked-card\" id=\"card-4\">\n            <a href=\"#card-4\" class=\"stacked-card-select\"></a>\n            <h1>card 4</h1>\n        </div>\n\n        <div class=\"stacked-card\" id=\"card-5\">\n            <a href=\"#card-5\" class=\"stacked-card-select\"></a>\n            <h1>card 5</h1>\n        </div>\n    </div>\n</body>\n</html>\n",
+			"generateCards",
+			"location",
+			",all",
+			",bakery",
+			",super",
+			",jerky",
+			"popcorn,",
+			",popcorn",
+			",fruit",
+			",nuts",
+			",seeds",
+			",nuts",
+			"seeds,",
+			",seeds",
+			",nuts",
+			",chocolate",
+			"chocolate,",
+			"savoury-cravings",
+			"sweet-treats",
+			",all",
+			",new",
+			"savoury",
+			"next unless",
+			"next unless product[:productType] == 'punnets'",
+			"index-test",
+			"838",
+			" '",
+			"%>\n",
+			"x3",
+			"compact_x3",
+			"pdp.html",
+			"product_tile",
+			"product_tile_3",
+			"relatedProducts",
+			"else",
+			"\"none\"",
+			"\"bag\"",
+			"chopped dates",
+			"granny smith",
+			"title",
+			"macaron",
+			"no_selec",
+			"no_selection",
+			"no-selection",
+			"url",
+			"void",
+			"punnets",
+			"pantry",
+			"pantrybag",
+			"pantry bag",
+			"pack_count",
+			"punnets",
+			"bag",
+			"punnets",
+			"else",
+			" bag",
+			"bag",
+			"protein cashew kick multipack",
+			"protein cashew kick multipack\n",
+			"graze_pro",
+			"hickory smoked",
+			"garden of england",
+			"829",
+			"\"relatedProducts\": ",
+			"for-each",
+			"baobab powder",
+			"powder",
+			"\"inStock\": \"0\"",
+			"new",
+			"\"isNew\": \"1\"",
+			"#0",
+			"tile",
+			"homepage test",
+			"rand",
+			"productType",
+			"punnets",
+			"h4",
+			"h3",
+			"banoffee",
+			"addition",
+			"instock",
+			"price",
+			"cacao",
+			"key",
+			"--ticked",
+			".png",
+			"pure ",
+			"trending",
+			"style",
+			"p>",
+			" class=\"text-center\"",
+			"grid__panel--dark",
+			"100px",
+			"inline",
+			"off-screen-header",
+			"true",
+			"false",
+			"true",
+			"checkbox",
+			"data-logged",
+			"data-logg",
+			"loginAction",
+			"{\n",
+			"less",
+			"lessc",
+			"thumbnail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"graze_pro\"",
+			"9 items",
+			"feature/square-dippers.jpg",
+			"feature/half-running.jpg",
+			"feature__content",
+			"page-footer",
+			"nav-heading",
+			"tab-focus-state",
+			"tab-focus-state(",
+			"\";",
+			": ~\"",
+			"muted",
+			"",
+			"required",
+			"nav__tab--active",
+			"form-select__item",
+			"getAttr",
+			"",
+			"page-wrapper",
+			"list-inline-style()",
+			"form-control-feedback",
+			"form-control__button",
+			"nav__sub-menu__header",
+			"nav__menu",
+			"nav-item-style",
+			".font-size(1.25)",
+			".font-size(0.85)",
+			"nav-style-active",
+			"nav-style",
+			".sub-nav-style()",
+			"@table-border-colour",
+			"@input-colour",
+			"@border-colour",
+			"@link-hover-colour",
+			"@link-colour",
+			"@text-colour",
+			"// ---",
+			"@dimension-spacing-default",
+			"@spacing-default",
+			"@reflex-spacing-lg",
+			"@reflex-spacing-md",
+			"@reflex-spacing-sm",
+			"",
+			"reflex-prefix",
+			"&#35;",
+			"example-footer-right",
+			"reflex-container-padding-lg",
+			"reflex-container-padding-md",
+			"reflex-container-padding-sm",
+			"display-flex",
+			"flex-item",
+			"font-default",
+			"graze-font",
+			"graze-font-cursive",
+			"graze-font-caps",
+			"grazeFontPro",
+			"sharing",
+			"recurring",
+			"bv-for",
+			"</small>",
+			"<small class=\"help-block\">",
+			"</small>",
+			"</span>",
+			"<small class=\"help-block\">",
+			"aria-labelledby=\"grazeModal\"",
+			"inline",
+			"recurring",
+			"currentPlan",
+			"$this->redirectHome();",
+			"'",
+			"class=\"stacked-card\" tab-index=\"1\"",
+			"class=\"stacked-card\" tab-index=\"1\" ",
+			"panel-heading-collapse collapsed",
+			"SwitchToBoxType",
+			"canWeHelp",
+			"",
+			"btn-success",
+			"badge-tooltip",
+			"badge-wrapper",
+			"data-product-filter-category-id",
+			"categoryChange",
+			"GROUP_BIG_BAGS_INDULGENCE",
+			"GROUP_BIG_BAGS_GOODNESS",
+			"GROUP_BIG_BAGS",
+			"jul2014NavFoodTestEnabled",
+			"jul2014NavFoodControl",
+			"jul2014NavFoodTest",
+			"icon-2x icon-",
+			"container-fluid",
+			"menuAccount",
+			"menuLegal",
+			"menuTertiary",
+			"menuSecondary",
+			"menuPrimary",
+			"<?= $this->renderShortDate($this->sr->getNextActualOccurrence()) ?>",
+			"<?= $this->renderShortDate($this->sr->getNextActualOccurrence(true)->getAlternativeDeliveryDateForBankHoliday()) ?>",
+			"<?= $this->renderShortDate($this->sr->getNextActualOccurrence(true)) ?>",
+			"<?= $this->renderShortDate($date) ?>",
+			"Date::FORMAT_US_DATE_SHORT",
+			"grazeRewards",
+			"<?= $this->codeName ?>",
+			"\"><strong>X</strong></i>",
+			"promotionDescription",
+			"$sr->getPublicId()",
+			"data-maxwidth=\"450\"",
+			"        <a name=\"section$1\">\n            <h2 class=\"section-anchor\">\n                $2\n            </h2>\n        </a>",
+			"        <a href=\"#content\">back to top &uarr;</a>\n        <hr>",
+			"        <a name=\"section$1\">\n            <h2 class=\"section-anchor\">\n                $2\n            </h2>\n        </a>",
+			"        <a href=\"#content\">back to top &uarr;</a>\n        <hr>",
+			"<a href=\"#content\">back to top &uarr;</a>\n            <hr>",
+			"hidden-xss",
+			"verticalStack",
+			"col-xs-8",
+			"col-xs-4",
+			"col-xs-12",
+			"col-xs-6",
+			"row",
+			"td",
+			"col-xs-4",
+			"row",
+			"$this->nutritionValues['",
+			"getCustomBoxFiltersGeneric",
+			"getCustomBoxProductGroupsGeneric",
+			"hasCustomBox",
+			"$",
+			"data-switch-nutrition-plan-name",
+			"$this->category",
+			"class=\"button\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/cards.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3568,
+								3568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2931.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cards.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"source/stylesheets/style.css.less"
+			],
+			[
+				"stat",
+				"build/javascripts/status.js"
+			],
+			[
+				"actions",
+				"build/javascripts/actions.js"
+			],
+			[
+				"nav",
+				"source/partials/layout/_nav.html.erb"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"styles",
+				"build/stylesheets/style.css"
+			],
+			[
+				"footer",
+				"source/partials/layout/_footer.html.erb"
+			],
+			[
+				"grayscale",
+				"source/stylesheets/includes/_grayscale.less"
+			],
+			[
+				"configrb",
+				"config.rb"
+			],
+			[
+				"product_list",
+				"data/products_list.json"
+			],
+			[
+				"index",
+				"source/prototypes/prototype-a/index.html.erb"
+			],
+			[
+				"producttile",
+				"source/partials/product/_tile.html.erb"
+			],
+			[
+				"tile-by",
+				"source/partials/product/_tile-by-3.html.erb"
+			],
+			[
+				"prototile",
+				"source/partials/prototypes/_tile.html.erb"
+			],
+			[
+				"account",
+				"source/prototypes/prototype-a/account.html.erb"
+			],
+			[
+				"login",
+				"source/prototypes/prototype-a/login.html.erb"
+			],
+			[
+				"/pistachio/less/includes/variables",
+				"node_modules/pistachio/less/includes/variables.less"
+			],
+			[
+				"app.js",
+				"build/javascripts/app.js"
+			],
+			[
+				"variabe",
+				"less/includes/variables.less"
+			],
+			[
+				"ws/examples/features/square-trio-text.html",
+				"site/docs/views/examples/features/square-trio-text.html"
+			],
+			[
+				"uti",
+				"less/common/utilities.less"
+			],
+			[
+				"pagesect",
+				"less/modules/page-sections.less"
+			],
+			[
+				"typogra",
+				"less/common/typography.less"
+			],
+			[
+				"mples/features/square-trio-footer.html",
+				"site/docs/views/examples/features/square-trio-footer.html"
+			],
+			[
+				"s/examples/features/square-quartet-footer.html",
+				"site/docs/views/examples/features/square-quartet-footer.html"
+			],
+			[
+				"layoutfea",
+				"site/docs/views/layouts_feature-block-examples.hbs"
+			],
+			[
+				"layoutfeature",
+				"site/docs/views/layouts_example-feature-page.hbs"
+			],
+			[
+				"page-sec",
+				"less/modules/page-sections.less"
+			],
+			[
+				"respon",
+				"less/common/responsive-utilities.less"
+			],
+			[
+				"utili",
+				"less/common/utilities.less"
+			],
+			[
+				"panels.less",
+				"less/modules/panels.less"
+			],
+			[
+				"panels",
+				"less/modules/panels.less"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"makefil",
+				"Makefile"
+			],
+			[
+				"pista",
+				"less/pistachio.less"
+			],
+			[
+				"common",
+				"less/common.less"
+			],
+			[
+				"pistach",
+				"less/pistachio.less"
+			],
+			[
+				"nodebootmixin",
+				"node_modules/bootstrap/less/mixins.less"
+			],
+			[
+				"mixin",
+				"less/includes/mixins.less"
+			],
+			[
+				"amples/features/banner-full-typography.ht",
+				"site/docs/views/examples/features/banner-full-typography.html"
+			],
+			[
+				"embed",
+				"less/common/embed.less"
+			],
+			[
+				"featureless",
+				"less/modules/features.less"
+			],
+			[
+				"utiliti",
+				"less/common/utilities.less"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"embedless",
+				"less/common/embed.less"
+			],
+			[
+				"mixins",
+				"less/includes/mixins.less"
+			],
+			[
+				"grid.less",
+				"node_modules/bootstrap/less/grid.less"
+			],
+			[
+				"pacvkage",
+				"node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/package.json"
+			],
+			[
+				"strapmixin",
+				"node_modules/bootstrap/less/mixins/grid.less"
+			],
+			[
+				"grid",
+				"node_modules/reflex-grid/less/reflex/grid.less"
+			],
+			[
+				"s/features/banner-full-typography.html",
+				"site/docs/views/examples/features/banner-full-typography.html"
+			],
+			[
+				"handle",
+				"site/lib/handlebars-helpers.js"
+			],
+			[
+				"colour",
+				"site/docs/data/colours.js"
+			],
+			[
+				"patterncolo",
+				"site/docs/views/patterns_colour-palette.hbs"
+			],
+			[
+				"paterncol",
+				"site/docs/views/patterns_colour-palette.hbs"
+			],
+			[
+				"les/features/banner-full-right",
+				"site/docs/views/examples/features/banner-full-right.html"
+			],
+			[
+				"feature",
+				"less/modules/features.less"
+			],
+			[
+				"ws/examples/features/banner-full-typography.ht",
+				"site/docs/views/examples/features/banner-full-typography.html"
+			],
+			[
+				"exambannerfull",
+				"site/docs/views/examples/features/banner-full.html"
+			],
+			[
+				"layoutexample",
+				"site/docs/views/layouts_example-feature-page.hbs"
+			],
+			[
+				"layoutfeatureexam",
+				"site/docs/views/layouts_feature-block-examples.hbs"
+			],
+			[
+				"utilit",
+				"less/common/utilities.less"
+			],
+			[
+				"responsive",
+				"less/common/responsive-utilities.less"
+			],
+			[
+				"cariab",
+				"less/includes/variables.less"
+			],
+			[
+				"commonless",
+				"less/common.less"
+			],
+			[
+				"pistachio",
+				"less/pistachio.less"
+			],
+			[
+				"responsive-embed.less",
+				"node_modules/bootstrap/less/responsive-embed.less"
+			],
+			[
+				"layout",
+				"site/docs/views/layouts/layout.hbs"
+			],
+			[
+				"patternpage",
+				"site/docs/views/patterns_page-sections.hbs"
+			],
+			[
+				"page-sections",
+				"less/modules/page-sections.less"
+			],
+			[
+				"links.less",
+				"node_modules/bootstrap/less/mixins/center-block.less"
+			],
+			[
+				"rap/less/mixins/clearfix.less",
+				"node_modules/bootstrap/less/mixins/clearfix.less"
+			],
+			[
+				"button",
+				"less/modules/buttons.less"
+			],
+			[
+				"layouttiles",
+				"site/docs/views/layouts_product-tiles.hbs"
+			],
+			[
+				"s/views/examples/panels/panel-grid.html",
+				"site/docs/views/examples/panels/panel-grid.html"
+			],
+			[
+				"patternpanel",
+				"site/docs/views/patterns_panels.hbs"
+			],
+			[
+				"variab",
+				"less/includes/variables.less"
+			],
+			[
+				"app",
+				"site/docs/app.js"
+			],
+			[
+				"layoufeature",
+				"site/docs/views/layouts_feature-block-examples.hbs"
+			],
+			[
+				"paternpanel",
+				"site/docs/views/patterns_panels.hbs"
+			],
+			[
+				"panels.les",
+				"less/modules/panels.less"
+			],
+			[
+				"layoutproduct",
+				"site/docs/views/layouts_product-tiles.hbs"
+			],
+			[
+				"paternfeature",
+				"site/docs/views/patterns_features.hbs"
+			],
+			[
+				"/features/banner-full-center.htm",
+				"site/docs/views/examples/features/banner-full-center.html"
+			],
+			[
+				"page-section",
+				"less/modules/page-sections.less"
+			],
+			[
+				"patternfeature",
+				"site/docs/views/patterns_features.hbs"
+			],
+			[
+				"/features/banner-full-img.html",
+				"site/docs/views/examples/features/banner-full-img.html"
+			],
+			[
+				"s/examples/features/banner-full-dark-right.ht",
+				"site/docs/views/examples/features/banner-full-dark-right.html"
+			],
+			[
+				"mples/features/banner-full.ht",
+				"site/docs/views/examples/features/banner-full.html"
+			],
+			[
+				"les/features/banner-full-dark.html",
+				"site/docs/views/examples/features/banner-full-dark.html"
+			],
+			[
+				"ples/features/banner-full-center.htm",
+				"site/docs/views/examples/features/banner-full-center.html"
+			],
+			[
+				"examples/features/banner-full-right.html",
+				"site/docs/views/examples/features/banner-full-right.html"
+			],
+			[
+				"iews/examples/features/banner-full.ht",
+				"site/docs/views/examples/features/banner-full.html"
+			],
+			[
+				"/docs/views/examples/features/banner-strip-link-content.ht",
+				"site/docs/views/examples/features/banner-strip-link-content.html"
+			],
+			[
+				"banner-dark-right",
+				"site/docs/views/examples/features/banner-dark-right.html"
+			],
+			[
+				"xamples/features/banner-dark.htm",
+				"site/docs/views/examples/features/banner-dark.html"
+			],
+			[
+				"ples/features/banner-right.",
+				"site/docs/views/examples/features/banner-right.html"
+			],
+			[
+				"s/examples/features/banner.htm",
+				"site/docs/views/examples/features/banner.html"
+			],
+			[
+				"/views/examples/features/banner-fade-right.htm",
+				"site/docs/views/examples/features/banner-fade-right.html"
+			],
+			[
+				"xamples/features/banner-fade.html",
+				"site/docs/views/examples/features/banner-fade.html"
+			],
+			[
+				"banner-full",
+				"site/docs/views/examples/features/banner-full-right.html"
+			],
+			[
+				"views/examples/features/banner-full.htm",
+				"site/docs/views/examples/features/banner-full.html"
+			],
+			[
+				"tures/feature-image-full.htm",
+				"site/docs/views/examples/features/feature-image-full.html"
+			],
+			[
+				"ures/banner-full-img.ht",
+				"site/docs/views/examples/features/banner-full-img.html"
+			],
+			[
+				"mples/features/banner-img.html",
+				"site/docs/views/examples/features/banner-img.html"
+			],
+			[
+				"layoutexamplef",
+				"site/docs/views/layouts_example-feature-page.hbs"
+			],
+			[
+				"anner-full.htm",
+				"site/docs/views/examples/features/banner-full.html"
+			],
+			[
+				"featureimage",
+				"site/docs/views/examples/features/feature-image.html"
+			],
+			[
+				"s/features/banner-strip.html",
+				"site/docs/views/examples/features/banner-strip.html"
+			],
+			[
+				"ures/banner-strip-content.htm",
+				"site/docs/views/examples/features/banner-strip-content.html"
+			],
+			[
+				"s/features/banner-strip-content.html",
+				"site/docs/views/examples/features/banner-strip-content.html"
+			],
+			[
+				"bannerstrip",
+				"site/docs/views/examples/features/banner-strip.html"
+			],
+			[
+				"ocs/views/examples/features/banner-dark.html",
+				"site/docs/views/examples/features/banner-dark.html"
+			],
+			[
+				"iews/examples/features/banner.html",
+				"site/docs/views/examples/features/banner.html"
+			],
+			[
+				"views/examples/features/banner-fade.html",
+				"site/docs/views/examples/features/banner-fade.html"
+			],
+			[
+				"triotext",
+				"site/docs/views/examples/features/square-trio-text.html"
+			],
+			[
+				"eatures/square-trio-footer.html",
+				"site/docs/views/examples/features/square-trio-footer.html"
+			],
+			[
+				"ews/examples/features/banner-dark.html",
+				"site/docs/views/examples/features/banner-dark.html"
+			],
+			[
+				"xamples/features/banner.html",
+				"site/docs/views/examples/features/banner.html"
+			],
+			[
+				"banner-fade",
+				"site/docs/views/examples/features/banner-fade.html"
+			],
+			[
+				"examfeafade",
+				"site/docs/views/examples/features/banner-fade.html"
+			],
+			[
+				"pagesectionless",
+				"less/modules/page-sections.less"
+			],
+			[
+				"layoutproducttil",
+				"site/docs/views/layouts_product-tiles.hbs"
+			],
+			[
+				"utilities",
+				"less/common/utilities.less"
+			],
+			[
+				"pagesection",
+				"less/modules/page-sections.less"
+			],
+			[
+				"examplebanner",
+				"site/docs/views/examples/features/banner.html"
+			],
+			[
+				"panel",
+				"less/modules/panels.less"
+			],
+			[
+				"panelsless",
+				"less/modules/panels.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
